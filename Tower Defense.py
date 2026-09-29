@@ -618,7 +618,7 @@ wave_started = False
 enemies = []
 spawn_queue = []
 spawn_delay = 0
-player_cash = 100000000000000000 # Starting cash
+player_cash = 600 # Starting cash
 enemy_cash_values = {
     'zombie': 5,
     'speedy': 4,
